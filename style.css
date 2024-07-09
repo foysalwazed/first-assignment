@@ -42,6 +42,8 @@ body {
     bottom: 4506px;
 }
 
+    
+
 
 .banner-content p,h1{
 color: black;
@@ -49,5 +51,96 @@ color: black;
 
 
 /* banner-content  End here  */
-    
 
+
+
+
+
+/* btn start */
+
+
+
+.btn{
+    padding:  12px 18px 12px 18px;
+    color: rgb(222, 222, 235);
+    font-family: Azeret Mono;
+    font-size: 12px;
+    font-weight: 600;
+    line-height: 23px;
+    letter-spacing: 0%;
+    text-align: center;
+    border-radius: 8px;
+    background: rgb(13, 19, 33);
+}
+
+
+
+/* btn end */
+
+
+
+
+
+
+/* card-box  */
+
+.card-box{
+
+    
+    max-width: 1140px;
+    margin: 0 auto;
+    border: 2px  solid red;
+    height: 1393px;
+    left: 148px;
+    right: 152px;
+    top: 2340px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 80px 97px 80px 97px;
+  
+}
+
+/* card-box2  */
+.card-box2{
+    
+    max-width: 1100px;
+    margin: 0 auto;
+    border: 2px  solid red;
+    height: 775px;
+    left: 148px;
+    right: 152px;
+    top: 2340;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 0px;
+
+}
+
+/* article  */
+.article{
+    max-width: 1040px;
+    margin: 0 auto;
+    border: 2px  solid red;
+    height: 775px;
+    left: 148px;
+    right: 152px;
+    top: 2340;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 0px;
+    
+}
+
+/* card-container start here  */
+/* card-container end here  */
+
+
+.card-container{
+    
+}
